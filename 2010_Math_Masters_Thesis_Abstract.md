@@ -1,3 +1,5 @@
+# Thesis: Intelligent selection of new data for ranking algorithms
+# Author: Kirk A Boyer
 Algorithms that rank items using paired comparison data are becoming increasingly 
 widely applicable. New data is always being gathered to try to improve their ability 
 to make predictions. I demonstrate that it is possible to seek data in such a way 
